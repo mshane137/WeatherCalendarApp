@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# finalproject
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # WeatherCalendarApp
 A Flutter/Dart weather app that doubles as a short-term calendar. Users can browse a 7 day weather forecast, view hourly weather details for each day, and schedule events at specific times. The app also supports recurring events, making it easy to track daily activities and plans.
 
